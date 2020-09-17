@@ -1,5 +1,3 @@
-
-
 # Liza Nikolaevich 
 
 ## QA engineer
