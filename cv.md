@@ -32,6 +32,7 @@ lizaveta.nikolaevich@gmail.com
 - French
 
 **Specialties**: Scrum, Web Testing, API Testing, UI testing, Mobile testing,test cases, BDD, Postman, VirtualBox, GH DevTools, SQL, Jira, Rally, Jenkins, Gitlab
+
 **Familiar with**: Javascript, C#, Git, Selenium WebDriver, Cucumber, MongoDB, Ranorex, Mocha, Chai, Fiddler VS, SoapUI
 
 
